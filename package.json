@@ -4,7 +4,7 @@
   "description": "",
   "main": "product.js",
   "scripts": {
-    "start": "node product.js"
+    
   },
   "author": "",
   "license": "ISC",
